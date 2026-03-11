@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bace0b8-f4e8-48c3-bb8f-096ee1596ee5" name="Changes" comment="NA">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/both_even_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/divisible_by_3&amp;5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/increasing_decreasing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/largest_among_3_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/positive_even_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two_digit_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/triangle_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/triangle_code.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -74,6 +67,7 @@
     "Python.job_eligibility.executor": "Run",
     "Python.large_number.executor": "Run",
     "Python.largest_among_3_numbers.executor": "Run",
+    "Python.triangle_code.executor": "Run",
     "Python.two_digit_number.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -125,7 +119,7 @@
       <workItem from="1772647326080" duration="6829000" />
       <workItem from="1772739598726" duration="647000" />
       <workItem from="1773135885704" duration="193000" />
-      <workItem from="1773225263014" duration="8135000" />
+      <workItem from="1773225263014" duration="9036000" />
     </task>
     <task id="LOCAL-00001" summary="NA">
       <option name="closed" value="true" />
@@ -135,7 +129,23 @@
       <option name="project" value="LOCAL" />
       <updated>1773233444172</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="NA">
+      <option name="closed" value="true" />
+      <created>1773239413331</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773239413332</updated>
+    </task>
+    <task id="LOCAL-00003" summary="NA">
+      <option name="closed" value="true" />
+      <created>1773239641012</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1773239641012</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +159,7 @@
     <SUITE FILE_PATH="coverage/Python_Practice$atm_withdrawal_system.coverage" NAME="atm_withdrawal_system Coverage Results" MODIFIED="1772629310706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Practice$age_check.coverage" NAME="age_check Coverage Results" MODIFIED="1772626343474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Practice$large_number.coverage" NAME="large_number Coverage Results" MODIFIED="1772626112523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Practice$triangle_code.coverage" NAME="triangle_code Coverage Results" MODIFIED="1773240051101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Practice$addition_numbers.coverage" NAME="addition_numbers Coverage Results" MODIFIED="1772626053580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Practice$largest_among_3_numbers.coverage" NAME="largest_among_3_numbers Coverage Results" MODIFIED="1773229904876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Practice$job_eligibility.coverage" NAME="job_eligibility Coverage Results" MODIFIED="1772627876248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
