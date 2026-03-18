@@ -6,21 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2bace0b8-f4e8-48c3-bb8f-096ee1596ee5" name="Changes" comment="NA">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addition_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/addition_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/age_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/age_check.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/both_even_odd.py" beforeDir="false" afterPath="$PROJECT_DIR$/both_even_odd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divisible_by.py" beforeDir="false" afterPath="$PROJECT_DIR$/divisible_by.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divisible_by_3&amp;5.py" beforeDir="false" afterPath="$PROJECT_DIR$/divisible_by_3&amp;5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/even_odd.py" beforeDir="false" afterPath="$PROJECT_DIR$/even_odd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_result.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_result.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fizz_buzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/fizz_buzz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/increasing_decreasing.py" beforeDir="false" afterPath="$PROJECT_DIR$/increasing_decreasing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/job_eligibility.py" beforeDir="false" afterPath="$PROJECT_DIR$/job_eligibility.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/large_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/large_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/largest_among_3_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/largest_among_3_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middle_not_middle.py" beforeDir="false" afterPath="$PROJECT_DIR$/middle_not_middle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/number_1_20_else_Fizz.py" beforeDir="false" afterPath="$PROJECT_DIR$/number_1_20_else_Fizz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/number_classification.py" beforeDir="false" afterPath="$PROJECT_DIR$/number_classification.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +61,7 @@
     "Python.addition_numbers.executor": "Run",
     "Python.age_check.executor": "Run",
     "Python.atm_withdrawal_system.executor": "Run",
+    "Python.challenge_1.executor": "Run",
     "Python.even_odd.executor": "Run",
     "Python.fizz_buzz.executor": "Run",
     "Python.increasing_decreasing.executor": "Run",
@@ -146,7 +132,7 @@
       <workItem from="1773780195440" duration="392000" />
       <workItem from="1773780679625" duration="84000" />
       <workItem from="1773780836681" duration="1090000" />
-      <workItem from="1773824286387" duration="4730000" />
+      <workItem from="1773824286387" duration="5940000" />
     </task>
     <task id="LOCAL-00001" summary="NA">
       <option name="closed" value="true" />
@@ -212,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773829939270</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="NA">
+      <option name="closed" value="true" />
+      <created>1773833496550</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1773833496550</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +220,7 @@
     <SUITE FILE_PATH="coverage/Python_Practice$atm_withdrawal_system.coverage" NAME="atm_withdrawal_system Coverage Results" MODIFIED="1772629310706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Practice$age_check.coverage" NAME="age_check Coverage Results" MODIFIED="1772626343474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Practice$large_number.coverage" NAME="large_number Coverage Results" MODIFIED="1772626112523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Practice$challenge_1.coverage" NAME="challenge_1 Coverage Results" MODIFIED="1773845531163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Practice$triangle_code.coverage" NAME="triangle_code Coverage Results" MODIFIED="1773240297911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Practice$addition_numbers.coverage" NAME="addition_numbers Coverage Results" MODIFIED="1772626053580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Practice$largest_among_3_numbers.coverage" NAME="largest_among_3_numbers Coverage Results" MODIFIED="1773229904876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
