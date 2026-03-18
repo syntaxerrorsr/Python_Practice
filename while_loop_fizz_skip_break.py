@@ -1,3 +1,5 @@
+# Loop 1 to 50, skip multiples of 3, stop at first multiple of 11
+
 i = 1
 
 while i <= 50:

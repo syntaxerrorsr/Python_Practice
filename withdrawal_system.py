@@ -1,3 +1,5 @@
+# ATM transaction validation with balance check, PIN verification, and withdrawal limit
+
 account_balance = int(input("Account Balance: "))
 withdrawal_amount = int(input("Withdrawal Amount: "))
 entered_pin = int(input("Enter PIN: "))

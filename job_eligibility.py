@@ -1,3 +1,5 @@
+# Eligibility check based on age, degree qualification, and criminal record status
+
 age = int(input("What is your age: "))
 degree = True
 criminal_record = False

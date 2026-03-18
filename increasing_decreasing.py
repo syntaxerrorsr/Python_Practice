@@ -1,3 +1,5 @@
+# Check if three numbers are in increasing, decreasing, or neither order
+
 number1 = int(input())
 number2 = int(input())
 number3 = int(input())

@@ -1,3 +1,5 @@
+# Classify number as zero, positive/negative, and even/odd
+
 number = int(input("What is the Number: "))
 
 if number == 0:

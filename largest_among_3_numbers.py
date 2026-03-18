@@ -1,3 +1,5 @@
+# Find the largest among three numbers with equality check
+
 number1 = int(input())
 number2 = int(input())
 number3 = int(input())

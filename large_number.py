@@ -1,3 +1,5 @@
+# Compare two numbers and print the larger or equality
+
 number1 = int(input("Enter first number: "))
 number2 = int(input("Enter second number: "))
 

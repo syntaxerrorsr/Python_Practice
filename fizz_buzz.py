@@ -1,3 +1,5 @@
+# FizzBuzz logic for a single number
+
 number = int(input("What is the number: "))
 
 if number % 3 == 0 and number % 5 == 0:
