@@ -148,7 +148,9 @@
       <workItem from="1774291469080" duration="702000" />
       <workItem from="1774340125922" duration="382000" />
       <workItem from="1774354954664" duration="850000" />
-      <workItem from="1774447398996" duration="119000" />
+      <workItem from="1774447398996" duration="2270000" />
+      <workItem from="1774550840653" duration="903000" />
+      <workItem from="1774706085447" duration="2120000" />
     </task>
     <task id="LOCAL-00001" summary="NA">
       <option name="closed" value="true" />
@@ -238,7 +240,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774204728978</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="NA">
+      <option name="closed" value="true" />
+      <created>1774447580472</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1774447580473</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,7 +264,7 @@
     <SUITE FILE_PATH="coverage/Python_Practice$addition_numbers.coverage" NAME="addition_numbers Coverage Results" MODIFIED="1772626053580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Practice$largest_among_3_numbers.coverage" NAME="largest_among_3_numbers Coverage Results" MODIFIED="1773229904876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Practice$practice.coverage" NAME="practice Coverage Results" MODIFIED="1774354997733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Practice$practice_1.coverage" NAME="practice_1 Coverage Results" MODIFIED="1773860279526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Practice$practice_1.coverage" NAME="practice_1 Coverage Results" MODIFIED="1774709410216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Practice$Easy_1.coverage" NAME="Easy_1 Coverage Results" MODIFIED="1772648049985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Practice$job_eligibility.coverage" NAME="job_eligibility Coverage Results" MODIFIED="1772627876248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Practice$middle_not_middle.coverage" NAME="middle_not_middle Coverage Results" MODIFIED="1773241314995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
