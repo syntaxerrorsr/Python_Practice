@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bace0b8-f4e8-48c3-bb8f-096ee1596ee5" name="Changes" comment="NA">
+      <change afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -150,7 +151,7 @@
       <workItem from="1774354954664" duration="850000" />
       <workItem from="1774447398996" duration="2270000" />
       <workItem from="1774550840653" duration="903000" />
-      <workItem from="1774706085447" duration="2120000" />
+      <workItem from="1774706085447" duration="4054000" />
     </task>
     <task id="LOCAL-00001" summary="NA">
       <option name="closed" value="true" />
@@ -248,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774447580473</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="NA">
+      <option name="closed" value="true" />
+      <created>1774709541431</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1774709541431</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,7 +272,7 @@
     <SUITE FILE_PATH="coverage/Python_Practice$challenge_1.coverage" NAME="challenge_1 Coverage Results" MODIFIED="1773845531163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Practice$addition_numbers.coverage" NAME="addition_numbers Coverage Results" MODIFIED="1772626053580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Practice$largest_among_3_numbers.coverage" NAME="largest_among_3_numbers Coverage Results" MODIFIED="1773229904876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Practice$practice.coverage" NAME="practice Coverage Results" MODIFIED="1774354997733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Practice$practice.coverage" NAME="practice Coverage Results" MODIFIED="1774711367560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Practice$practice_1.coverage" NAME="practice_1 Coverage Results" MODIFIED="1774709410216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Practice$Easy_1.coverage" NAME="Easy_1 Coverage Results" MODIFIED="1772648049985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Practice$job_eligibility.coverage" NAME="job_eligibility Coverage Results" MODIFIED="1772627876248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
