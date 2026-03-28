@@ -1,3 +1,6 @@
+# Program: FizzBuzz String Multiplier
+# Description: Prints "Fizz", "Buzz", or "FizzBuzz" repeated N times based on divisibility rules
+
 number = int(input("What is the number: "))
 
 if number % 15 == 0:
